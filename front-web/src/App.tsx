@@ -1,9 +1,10 @@
 import './App.css';
+import Navbar from './Navabr';
 
 function App() {
   return (
     <div>
-      <h1>Demora</h1>
+      <Navbar />
     </div>
   );
 }
