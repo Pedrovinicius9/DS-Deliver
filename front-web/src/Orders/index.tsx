@@ -47,7 +47,7 @@ function Orders() {
 
     SaveOrder(payload)
       .then((response) => {
-        toast.error(`Pedido cadastrado com sucesso! Nº ${response.data.id}`);
+        toast.info(`Pedido cadastrado com sucesso! Nº ${response.data.id}`);
         setSelectedProducts([]);
       })
       .catch(() => {
