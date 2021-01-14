@@ -14,7 +14,7 @@ https://maindelivey.netlify.app
 
 # Modelo Conceitual e Padrão de Camadas
 
-![Modelo Conceitual](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/Pedrovinicius9/MainDelivey/assets/modelo-conceitual.png)
 
 ![camadas](https://github.com/mrraxa01/dsdeliver-sds2/blob/main/assets/camadas.png)
 
