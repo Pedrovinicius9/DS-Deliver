@@ -14,9 +14,9 @@ https://maindelivey.netlify.app
 
 # Modelo Conceitual e Padrão de Camadas
 
-![Modelo Conceitual](https://github.com/Pedrovinicius9/MainDelivery/assets/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/Pedrovinicius9/MainDelivery/blob/main/assets/modelo-conceitual.png)
 
-![camadas](https://github.com/Pedrovinicius9/MainDelivery/assets/assets/camadas.png)
+![camadas](https://github.com/Pedrovinicius9/MainDelivery/blob/main/assets/modelo-conceitual.png)
 
 # Layout
 
@@ -24,23 +24,23 @@ https://maindelivey.netlify.app
 
 #### Página Principal
 
-![web1](https://github.com/Pedrovinicius9/MainDelivery/assets/tela_web1.png)
+![web1](https://github.com/Pedrovinicius9/MainDelivery/blob/main/assets/tela_web1.png)
 
 #### Página de pedidos e mapa
 
-![web2](https://github.com/Pedrovinicius9/MainDelivery/assets/tela_web2.png)
+![web2](https://github.com/Pedrovinicius9/MainDelivery/blob/main/assets/tela_web2.png)
 
-![web3](https://github.com/Pedrovinicius9/MainDelivery/assets/tela_web3.png)
+![web3](https://github.com/Pedrovinicius9/MainDelivery/blob/main/assets/tela_web3.PNG)
 
 ### MOBILE
 #### Tela inicial
-![mob1](https://github.com/Pedrovinicius9/MainDelivery/assets/Mobile%20P1.png)
+![mob1](https://github.com/Pedrovinicius9/MainDelivery/blob/main/assets/Mobile%20P1.png)
 
 #### Listagem de pedidos
-![mob2](https://github.com/Pedrovinicius9/MainDelivery/assets/Mobile%20P2.png)
+![mob2](https://github.com/Pedrovinicius9/MainDelivery/blob/main/assets/Mobile%20P2.png)
 
 #### Detalhes do Pedido e opções de interação
-![mob3](https://github.com/Pedrovinicius9/MainDelivery/assets/Mobile%20P3.png)
+![mob3](https://github.com/Pedrovinicius9/MainDelivery/blob/main/assets/Mobile%20P3.png)
 
 
 # Tecnologias utilizadas
