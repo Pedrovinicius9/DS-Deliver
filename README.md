@@ -90,7 +90,7 @@ cd backend
 
 ```bash
 # clonar repositório
-git clone https://github.com/mrraxa01/dsdeliver-sds2
+git clone https://github.com/Pedrovinicius9/MainDelivey.git
 
 # entrar na pasta do projeto front end web
 cd front-web
